@@ -1,2 +1,1 @@
-pasando desde working a staged
-Ya listo para el commit
+Haciendo el cambios desde github simulando el push de un companero
